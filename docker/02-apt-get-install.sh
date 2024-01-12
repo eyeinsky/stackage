@@ -47,6 +47,7 @@ apt-get install -y \
     libfftw3-dev \
     libflac-dev \
     libfreenect-dev \
+    libfuse-dev \
     libgd-dev \
     libgeoip-dev \
     libgirepository1.0-dev \
